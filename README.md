@@ -1,4 +1,5 @@
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbranditechture.agency%2Fbrand-logos%2Fdownload%2Flaravel%2F&psig=AOvVaw04yXtfDs_CqVMWrxBKV_mu&ust=1671978335110000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDYhui6kvwCFQAAAAAdAAAAABAJ" width="400"></p>
+<p align="center"><img src="![image](https://user-images.githubusercontent.com/113241128/209440101-233b3858-eb6e-415d-82c3-e923c0f96d6b.png)
+" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
