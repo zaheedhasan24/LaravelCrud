@@ -6,7 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
 ## About the project
+The project is about laravel Crud.It shows how to create,Read,update,delete a project. There is also login and register system in our project.<br/>
+**Here is the Video link of project overview**<br/>
+(https://drive.google.com/file/d/1MmiUt_H105R8sEv_cLsnAVoFmzp-d3ST/view?usp=share_link)
 
 ## About Laravel
 
